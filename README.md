@@ -1,3 +1,5 @@
+/edit:  For some reason you can't view the spreadsheet on here, so just click "view raw" to download.  Or you can hit download.
+
 Imagine being able to slowly teach a spreadsheet how to make predictions based on pattern recognition?  
 Well now you can!  
 My little cat and mouse predictor is a project that uses a cat's "door choices" to help predict where it will end up in the future.
