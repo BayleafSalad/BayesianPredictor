@@ -1,7 +1,9 @@
-/edit:  For some reason you can't view the spreadsheet on here, so just click "view raw" to download.  Or you can hit download.
+/edit:  For some reason you can't view the spreadsheet when you cick on its file, so just click "view raw" to download.  Or you can hit download.
 
-Imagine being able to slowly teach a spreadsheet how to make predictions based on pattern recognition?  
-Well now you can!  
+
+Spreadsheet looks at patterns and predicts outcomes.  Modeled on a cat wandering around a house.
+
+
 My little cat and mouse predictor is a project that uses a cat's "door choices" to help predict where it will end up in the future.
 The cat will move through a series of doors (A(1-5), B(1-5) C(1-5).  And its usual door patterns and final destinations will be reflected in the history. (You'll have to add that yourself, I'm afraid).
 Simply add door choices for the "actively observed data" (A(1-5), B(1-5) C(1-5)) and the spreadsheet will consult its training history, and make a prediction on the most likely 
